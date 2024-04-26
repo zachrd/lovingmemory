@@ -5,16 +5,12 @@
     </div>
     <div class="section details">
       <!-- CONTENT START -->
-      <h1 class="title">Charity Donations</h1>
-      <p>Instead of flowers we would like to suggest people make a donation to one of the following charities</p>
-      <h2>Marie Curie</h2>
-      <p>We are so grateful to <em>Marie Curie</em> for their support and making sure their patients are as 
-        comfortable and peaceful as possible when the end came.
+      <h1 class="title">Charitable Donations</h1>
+      <p>In lieu we would like to suggest people make a donation to one of the following charities</p>
+      <h2>St. Jude Children's Research Hospital</h2>
+      <p>Patrick was a regular supporter of <em>St. Jude's</em> and we believe he would appreciate everyone continuing to support the hospital. 
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="https://www.justgiving.com/fundraising/">Donate to Marie Curie</a>
-      <h2>Make a Wish</h2>
-      <p><em>Make A Wish</em>'s goal of giving joy to children during a terrible time is something that would be a fitting tribute.</p>
-      <a class="button" target="_blank" rel=”noopener” href="https://www.justgiving.com/fundraising/">Donate to Make a Wish</a>
+      <a class="button" target="_blank" rel=”noopener” href="https://www.stjude.org/give.html">Donate to St. Jude Children's Research Hospital</a>
       <!-- CONTENT END -->
     </div>
   </div>
