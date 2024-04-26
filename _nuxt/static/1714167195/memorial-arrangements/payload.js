@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/memorial-arrangements", {data:[{}],fetch:{},mutations:void 0});
