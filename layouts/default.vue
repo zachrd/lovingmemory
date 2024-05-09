@@ -283,6 +283,7 @@ ul {
 }
 
 .subtitle {
+  font-family: 'Prociono', serif;
   font-weight: 300;
   font-size: 14px;
   color: #adb4c7;
