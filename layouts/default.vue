@@ -100,7 +100,7 @@ html {
     background-image: url('~assets/USMC-E8-1SG.svg');
     background-position: bottom 20px left 20px;
     background-repeat: no-repeat;
-    background-size: 200px;
+    background-size: 25%;
     @media screen and (max-width: 800px) {
       padding: 0;
       background-position: bottom 2px left 2px;
