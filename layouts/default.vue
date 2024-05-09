@@ -7,7 +7,7 @@
 <style lang="scss">
 $highlight: #f41b8e;
 $highlightmuted: #f41b8ed9;
-$background: #2b3143;
+$background: #003d07;
 
 html {
   font-family: 'Lato', sans-serif;
