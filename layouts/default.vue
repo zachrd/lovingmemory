@@ -97,7 +97,7 @@ html {
     padding-bottom: 90px!important;
   }
   &.links {
-    background-image: url('~assets/corner.svg');
+    background-image: url('~assets/USMC-E8-1SG.svg');
     background-position: bottom 20px left 20px;
     background-repeat: no-repeat;
     background-size: 200px;
