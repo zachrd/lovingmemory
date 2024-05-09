@@ -268,7 +268,7 @@ ul {
   font-weight: 300;
 }
 .title {
-  font-family: 'Pinyon Script', cursive;
+  font-family: 'Prociono', serif;
   display: block;
   font-weight: 300;
   font-size: 50px;
