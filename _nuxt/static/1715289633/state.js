@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1715289633",layout:"default",error:a,serverRendered:true,routePath:b,config:{name:"William Patrick Davis",dates:"March 17th 1938 - April 4th 2024",_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null,"\u002F"));
