@@ -87,7 +87,8 @@ html {
   justify-content: center;
   align-items: center;
   text-align: center;
-  @media screen and (max-width: 800px) {POT
+  @media screen and (max-width: 800px) {
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
