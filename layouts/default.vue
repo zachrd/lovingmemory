@@ -220,7 +220,7 @@ html {
     font-size: 18px;
     background: $highlight;
     text-decoration: none;
-    color: #fff;
+    color: #003D07;
     margin: 10px 0;
     box-shadow: 0 0 5px 2px rgba(0,0,0,0.3);
     border-top: 1px solid rgba(255,255,255,0.2);
@@ -258,13 +258,13 @@ ul {
   //display: flex;
   //flex-direction: column;
   small {
-    color: #aeafb3;
+    color: #6B7E58;
     font-weight: 400;
   }
 }
 .name {
   font-size: 40px;
-  color: #fff;
+  color: #F1E4ED;
   font-weight: 300;
 }
 .title {
@@ -272,10 +272,10 @@ ul {
   display: block;
   font-weight: 300;
   font-size: 50px;
-  color: #35495e;
+  color: #F1E4ED;
   letter-spacing: 1px;
   margin: 40px 0;
-  color: #fff;
+  color: #F1E4ED;
   @media screen and (max-width: 800px) {
     font-size: 40px;
     margin: 30px 0;
@@ -286,7 +286,7 @@ ul {
   font-family: 'Prociono', serif;
   font-weight: 300;
   font-size: 14px;
-  color: #adb4c7;
+  color: #6AC3B6;
   margin: 40px 0;
   @media screen and (max-width: 800px) {
     margin: 25px 0;
