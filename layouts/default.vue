@@ -5,8 +5,8 @@
 </template>
 
 <style lang="scss">
-$highlight: #6AC3B6;
-$highlightmuted: #F1E4ED;
+$highlight: #fff;
+$highlightmuted: #fffc;
 $background: #003d07;
 
 html {
@@ -268,7 +268,7 @@ ul {
 }
 .name {
   font-size: 40px;
-  color: #F1E4ED;
+  color: #fff;
   font-weight: 300;
 }
 .title {
@@ -276,10 +276,10 @@ ul {
   display: block;
   font-weight: 300;
   font-size: 50px;
-  color: #F1E4ED;
+  color: #fff;
   letter-spacing: 1px;
   margin: 40px 0;
-  color: #F1E4ED;
+  color: #fff;
   @media screen and (max-width: 800px) {
     font-size: 40px;
     margin: 30px 0;
@@ -290,7 +290,7 @@ ul {
   font-family: 'Prociono', serif;
   font-weight: 300;
   font-size: 14px;
-  color: #6AC3B6;
+  color: #fff;
   margin: 40px 0;
   @media screen and (max-width: 800px) {
     margin: 25px 0;
