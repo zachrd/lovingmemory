@@ -5,8 +5,8 @@
 </template>
 
 <style lang="scss">
-$highlight: #fff;
-$highlightmuted: #fffc;
+$highlight: #f41b8e;
+$highlightmuted: #f41b8ed9;
 $background: #003d07;
 
 html {
@@ -262,7 +262,7 @@ ul {
   //display: flex;
   //flex-direction: column;
   small {
-    color: #6B7E58;
+    color: #aeafb3;
     font-weight: 400;
   }
 }
