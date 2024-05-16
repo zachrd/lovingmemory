@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/obit", {data:[{}],fetch:{},mutations:void 0});
