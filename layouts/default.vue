@@ -20,6 +20,10 @@ html {
   box-sizing: border-box;
 }
 
+div.a {
+  text-indent: 50px;
+}
+
 *,
 *::before,
 *::after {
