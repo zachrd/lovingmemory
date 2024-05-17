@@ -12,7 +12,8 @@
       </p>
       <a class="button" target="_blank" rel=”noopener” href="https://www.stjude.org/give.html">Donate to St. Jude Children's Research Hospital</a>
       <h2>Marine Corps League, Baltimore Detachment #565</h2>
-      <p>Patrick was a longtime member of the Marine Corps League, serving as Paymaster for many years. To donate, please make your check out to Marine Corps League, Baltimore Detachment #565, and send it to 1426 E. Fort Avenue, Baltimore, MD 21230.</p>
+      <p>Patrick was a longtime member of the Marine Corps League, serving as Paymaster for many years. The MCL advocates for enlisted and former Marines as well as their families, and supports charitable causes like Toys For Tots. To donate, please make your check out to Marine Corps League, Baltimore Detachment #565, and send it to 1426 E. Fort Avenue, Baltimore, MD 21230.</p>
+      <a class="button" target="_blank" rel=”noopener” href="https://www.mcleaguelibrary.org/about/">More About The MCL</a>
       <!-- CONTENT END -->
     </div>
   </div>
